@@ -34,6 +34,7 @@ public class verifyTitle extends base{
 		String homepagetxt = lp.getHomepagetext().getText();		
 		Assert.assertEquals(homepagetxt, "FEATURED COURSES");
 		Log.info("Home page text verified successfully");
+		Log.info("GIT Testing");
 		
 	}
 	
