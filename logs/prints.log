@@ -1,0 +1,38 @@
+10:12:14.333 [TestNG-tests-1] INFO  Hemanth.HomePage - Clicked on Login NAV button
+10:12:14.444 [TestNG-tests-1] INFO  Hemanth.HomePage - enter email id
+10:12:14.568 [TestNG-tests-1] INFO  Hemanth.HomePage - enter password
+10:12:14.852 [TestNG-tests-1] INFO  Hemanth.HomePage - Clicked on Login Button
+10:12:16.151 [TestNG-tests-1] INFO  Hemanth.HomePage - URL Launched
+10:12:16.438 [TestNG-tests-1] INFO  Hemanth.HomePage - Clicked on Login NAV button
+10:12:16.520 [TestNG-tests-1] INFO  Hemanth.HomePage - enter email id
+10:12:16.593 [TestNG-tests-1] INFO  Hemanth.HomePage - enter password
+10:12:16.797 [TestNG-tests-1] INFO  Hemanth.HomePage - Clicked on Login Button
+08:52:58.101 [TestNG-tests-3] INFO  Hemanth.HomePage - URL Launched
+08:52:58.207 [TestNG-tests-1] INFO  Hemanth.HomePage - URL Launched
+08:52:58.497 [TestNG-tests-4] INFO  Hemanth.HomePage - URL Launched
+08:53:03.258 [TestNG-tests-2] INFO  Hemanth.HomePage - URL Launched
+08:53:03.421 [TestNG-tests-2] INFO  Hemanth.HomePage - Home page text verified successfully
+08:53:03.438 [TestNG-tests-3] INFO  Hemanth.HomePage - Nav bar displayed
+08:53:08.327 [TestNG-tests-1] INFO  Hemanth.HomePage - URL Launched
+08:53:09.341 [TestNG-tests-1] INFO  Hemanth.HomePage - Clicked on Login NAV button
+08:53:09.559 [TestNG-tests-1] INFO  Hemanth.HomePage - enter email id
+08:53:09.632 [TestNG-tests-1] INFO  Hemanth.HomePage - enter password
+08:53:09.821 [TestNG-tests-1] INFO  Hemanth.HomePage - Clicked on Login Button
+09:00:16.107 [TestNG-tests-2] INFO  Hemanth.HomePage - URL Launched
+09:00:16.189 [TestNG-tests-3] INFO  Hemanth.HomePage - URL Launched
+09:00:16.218 [TestNG-tests-2] INFO  Hemanth.HomePage - Home page text verified successfully
+09:00:16.306 [TestNG-tests-3] INFO  Hemanth.HomePage - Nav bar displayed
+09:00:16.487 [TestNG-tests-4] INFO  Hemanth.HomePage - URL Launched
+09:00:17.366 [TestNG-tests-4] INFO  Hemanth.HomePage - navigated to Login Page
+09:00:18.223 [TestNG-tests-4] INFO  Hemanth.HomePage - navigated to forgot pwd page
+09:00:18.300 [TestNG-tests-4] INFO  Hemanth.HomePage - enter email id in forgor PWD page
+09:00:21.595 [TestNG-tests-1] INFO  Hemanth.HomePage - URL Launched
+09:00:23.266 [TestNG-tests-1] INFO  Hemanth.HomePage - Clicked on Login NAV button
+09:00:23.357 [TestNG-tests-1] INFO  Hemanth.HomePage - enter email id
+09:00:23.427 [TestNG-tests-1] INFO  Hemanth.HomePage - enter password
+09:00:25.325 [TestNG-tests-1] INFO  Hemanth.HomePage - Clicked on Login Button
+09:00:27.039 [TestNG-tests-1] INFO  Hemanth.HomePage - URL Launched
+09:00:27.369 [TestNG-tests-1] INFO  Hemanth.HomePage - Clicked on Login NAV button
+09:00:27.440 [TestNG-tests-1] INFO  Hemanth.HomePage - enter email id
+09:00:27.541 [TestNG-tests-1] INFO  Hemanth.HomePage - enter password
+09:00:27.770 [TestNG-tests-1] INFO  Hemanth.HomePage - Clicked on Login Button

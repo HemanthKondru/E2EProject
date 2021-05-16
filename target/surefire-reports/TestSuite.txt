@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 4, Errors: 0, Skipped: 9, Time elapsed: 3.997 s <<< FAILURE! - in TestSuite
+Hemanth.verifyforgotPWD.intialize  Time elapsed: 1.37 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Hemanth.verifyforgotPWD.intialize(verifyforgotPWD.java:27)
+
+Hemanth.verifyTitle.intialize  Time elapsed: 1.373 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Hemanth.verifyTitle.intialize(verifyTitle.java:25)
+
+Hemanth.verifyNAVBar.intialize  Time elapsed: 1.373 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Hemanth.verifyNAVBar.intialize(verifyNAVBar.java:27)
+
+Hemanth.HomePage.intialize  Time elapsed: 1.373 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Hemanth.HomePage.intialize(HomePage.java:29)
+
