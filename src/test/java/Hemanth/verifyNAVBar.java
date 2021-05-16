@@ -37,6 +37,7 @@ public class verifyNAVBar extends base {
 		LandingPage lp = new LandingPage(driver);
 		Assert.assertTrue(lp.getnavigationBar().isDisplayed());	
 	    Log.info("Nav bar displayed");
+	    Log.info("GIT Testing updated");
 	    
 	    
 		
