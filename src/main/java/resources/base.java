@@ -29,12 +29,15 @@ public class base {
 		
 		prop.load(fis);
 		
-		String browserName = System.getProperty("browser");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\heman\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		 driver = new ChromeDriver();
+		
+		//String browserName = System.getProperty("browser");
 		
 		//mvn test -Dbrowser=ie/chrome from cmd prompt
 		//String browserName = prop.getProperty("browser");
 		
-		if( browserName.equals("chrome"))
+	/*	if( browserName.equals("chrome"))
 		{
 			System.setProperty("webdriver.chrome.driver", "C:\\work\\chromedriver.exe");
 			 driver = new ChromeDriver();
@@ -48,7 +51,7 @@ public class base {
 		else
 		{
 			System.out.println("given browser is not configured");
-		}
+		}*/
 		
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();

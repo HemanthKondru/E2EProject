@@ -35,6 +35,7 @@ public class verifyTitle extends base{
 		Assert.assertEquals(homepagetxt, "FEATURED COURSES");
 		Log.info("Home page text verified successfully");
 		Log.info("GIT Testing");
+		Log.info("GIT Testing updated");
 		
 	}
 	
